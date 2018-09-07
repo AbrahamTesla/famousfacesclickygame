@@ -1,3 +1,12 @@
+## Overview
+  Objective of this game is to test your memory by clicking on an image once until you score the maximum points.  If you click on an image twice, you lose and the game will start automatically.  Top Scorer will remain on the main page until someone beat that score.  
+  These are the famous people that had a huge impact in our society.  For me, these are the people that I look up to.  Hope 
+  you enjoy the game.  
+  Visit my site and make a testimonial: vamanlan.com.  
+  Thank you!
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
