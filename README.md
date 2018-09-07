@@ -4,6 +4,7 @@
   you enjoy the game.  
   Visit my site and make a testimonial: vamanlan.com.  
   Thank you!
+  ![alt mainPageImage](https://github.com/AbrahamTesla/famousfacesclickygame/blob/master/src/images/famousPeopleClickygame.jpeg)
 
 
 
