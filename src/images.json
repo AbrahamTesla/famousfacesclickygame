@@ -1,0 +1,59 @@
+[
+    {
+    "id": 0,
+    "name":"Abraham Lincoln",
+    "image": "abrahamLincoln.jpeg"
+},
+{
+    "id": 1,
+    "name": "Warren Buffet",
+    "image": "warrenBuffet.jpeg"
+
+},
+{
+    "id": 2,
+    "name": "Albert Einstein",
+    "image": "albertEinstein.jpeg"
+
+},
+{
+    "id": 3,
+    "name":"Bill Gates",
+    "image": "billGates.jpeg"
+    
+},
+{
+    "id": 4,
+    "name": "Nelson Mandela",
+    "image":"nelsonMandela.jpeg"
+},
+{
+    "id": 5,
+    "name":"Elon Musk",
+    "image": "elonMusk.jpeg"
+
+},
+{
+    "id": 6,
+    "name":"LarryPage",
+    "image": "larryPage.jpeg"
+
+},
+{
+    "id": 7,
+    "name":"Mother Theresa",
+    "image": "motherTheresa.jpeg"
+
+},
+{
+    "id": 8,
+    "name": "Nikola Tesla",
+    "image": "nikola.jpeg"
+
+},
+{
+    "id": 9,
+    "name":"Muhammad Ali",
+    "image": "muhammadAli.jpeg"
+}
+]
